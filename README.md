@@ -13,7 +13,7 @@ This project demonstrates the use of ConfigMap and Secret to pass external data 
  
 ---
 
-## **Features**
+## **Diagrammatic Presentation**
 - Created Mosquitto Deployment without any volumes
 
   ![image](https://github.com/user-attachments/assets/af6feea8-a7df-4588-b33c-4288874e9c95)
